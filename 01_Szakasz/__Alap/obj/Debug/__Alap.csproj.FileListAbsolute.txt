@@ -1,0 +1,9 @@
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\bin\Debug\__Alap.exe.config
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\bin\Debug\__Alap.exe
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\bin\Debug\__Alap.pdb
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\obj\Debug\__Alap.csprojAssemblyReference.cache
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\obj\Debug\__Alap.Form1.resources
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\obj\Debug\__Alap.Properties.Resources.resources
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\obj\Debug\__Alap.csproj.GenerateResource.cache
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\obj\Debug\__Alap.exe
+C:\Minden\GitRepo\Grafika\01_Szakasz\__Alap\obj\Debug\__Alap.pdb
